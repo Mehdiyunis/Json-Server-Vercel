@@ -1,9 +1,427 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "data": [
+    {
+      "id": 1,
+      "discount": "null",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-04.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-05.png",
+      "stars": "(44)",
+      "title": "3D™ wireless headset",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 2,
+      "discount": "Off 30%",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-03.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-03.png",
+      "stars": "null",
+      "title": "Logitech Streamcam",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 3,
+      "discount": "null",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-02.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-06.png",
+      "stars": "null",
+      "title": "Level 20 RGB Cherry",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 4,
+      "discount": "Off 20%",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-01.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-08.png",
+      "stars": "(64)",
+      "title": "Yantiti Leather & Canvas Bags",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 5,
+      "discount": "null",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-08.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-08.png",
+      "stars": "null",
+      "title": "3D™ wireless headset",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 6,
+      "discount": "Off 5%",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-07.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-08.png",
+      "stars": "(64)",
+      "title": "Zone Headphone",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 7,
+      "discount": "null",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-06.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-06.png",
+      "stars": "null",
+      "title": "Mice Logitech",
+      "price": ["$49.99", "$29.99"]
+    },
+    {
+      "id": 8,
+      "discount": "Off 15%",
+      "imgURL1": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-05.png",
+      "imgURL2": "https://new.axilthemes.com/demo/template/etrade-rtl/assets/images/product/electric/product-04.png",
+      "stars": "null",
+      "title": "Bass Meets Clarity",
+      "price": ["$49.99", "$29.99"]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "furniture-card": [
+    {
+      "id": 1,
+      "imgURL": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic1-768x768.webp",
+      "title": "Batchata lamp",
+      "discount": "-17%"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic10-768x768.webp",
+      "title": "Circle corners table",
+      "discount": null
+    },
+    {
+      "id": 3,
+      "imgURL": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic9-768x768.webp",
+      "title": "Circle lamp",
+      "discount": "-18%"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic4-768x768.webp",
+      "title": "Cozy armchair",
+      "discount": null
+    },
+    {
+      "id": 5,
+      "imgURL": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic16-768x768.webp",
+      "title": "Dining table",
+      "discount": "-9%"
+    },
+    {
+      "id": 6,
+      "imgURL": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic6-768x768.webp",
+      "title": "Fancy armchair",
+      "discount": null
+    }
   ],
-  "profile": { "name": "typicode" }
+  "doctors-card-data": [
+    {
+      "id": 1,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1669296044.webp",
+      "name": "Sənəm Abdullayeva",
+      "job": "Baş Həkim",
+      "about": "Abdullayeva Sənəm Sarif qızı 14 dekabr 1975-ci ildə Ağstafa rayonunda anadan olmuşdur. Orta məktəbi bitirdikdən sonra 1991-ci ildə Azərbaycan Tibb Universitetinə daxil olmuş və 1997-ci ildə fərqlən..."
+    },
+    {
+      "id": 2,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775948.webp",
+      "name": "Ayaz Hidayətov",
+      "job": "Radioloq",
+      "about": "Avropa radioloji cəmiyyətinin üzvü olan radioloq Dr. Ayaz Hidayətov Azərbaycan Tibb Universitetinin müalicə işi fakultəsi funksional dioqnostika ixtisası üzrə təhsil almış, bununla yanaşı Türkiyədə Ga..."
+    },
+    {
+      "id": 3,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/img-20-1669731208.webp",
+      "name": "Pərviz Aslanov",
+      "job": "Otorinolarinqoloq",
+      "about": "Peşəkar həkim kollektivimizin daha bir üzvü, Otorinolarinqoloq Dr. Pərviz Aslanov. 1999-cu ildə Azərbaycan Tibb Universitetinə daxil olub, 2005-ci ildə oranı bitirmişdir. 2006 -cı ildə Klinik Uşaq Xəs..."
+    },
+    {
+      "id": 4,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661776076.webp",
+      "name": "Fərqanə Məmmədli",
+      "job": "Endokrinoloq",
+      "about": "1999-2005- ci illərdə Azərbaycan Tibb universitetində təhsil almış, daha sonra isə təhsilini Türkiyənin Ankara universiteti tibb fakultəsi, İbni Sina xəstəxanasında davam etdirmişdir. Bununla yanaşı 2..."
+    },
+    {
+      "id": 5,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/ayaz-h-1670687809.webp",
+      "name": "Ayaz Hümbətov",
+      "job": "Travmatoloq-Ortoped",
+      "about": "1989-1995-ci illərdə Azərbaycan Tibb Universitetində Müalicə işi fakültəsini bitirmişdir. 1995-1996-ci illərdə internatura keçmişdir. 2000-2003-ci illərdə Respublika Elmi Artroloji Mərkəzi, Aspırantu..."
+    },
+    {
+      "id": 6,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661776441.webp",
+      "name": "Nərmin Həsənli",
+      "job": "Mama-ginekoloq",
+      "about": "2005-2011 ci illərdə Azerbaycan Tibb Universitetinin müalicə və profilaktika ixtisasını fərqlənmə diplomu bitirmiş, daha sonra isə, 2012-2017 ci ildə ATU Tədris cerrahiyyə klinikası mamalıq-ginekologi..."
+    },
+    {
+      "id": 7,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/%EF%BE%85%E6%A6%BE-1670315145.webp",
+      "name": "Şəfa Həsənova",
+      "job": "Otorinolarinqoloq",
+      "about": "1999-2006-cı illərdə Azərbaycan Dövlət Tibb Universitetində təhsil almışdır. Daha sonra 2014-2016-cı illərdə Ukraynanın Kiev şəhərində Şupik adına Akademiyada Klinik Ordinatura keçmişdir. Bir sıra özə..."
+    },
+    {
+      "id": 8,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775530.webp",
+      "name": "Emin Hüseynov",
+      "job": "Ümumi cərrah-fleboloq",
+      "about": "2001-2007 ci illərdə Azərbaycan Tibb Universitetinin müalicə işi fakultəsini bitirdikdən sonra Rusiya Federasiyası Kazan Dövlət Tibb Universitetində internatura və ordinatura səviyyələrində təhsilini..."
+    },
+    {
+      "id": 9,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775708.webp",
+      "name": "Vüqar İsgəndərov",
+      "job": "USM mütəxəssisi",
+      "about": "1993-cü ildə Azərbaycan Tibb Universitetinə daxil olmuşdur. Daha sonra isə milli ankoloji mərkəzində diaqnostika şöbəsində təhsilini davam etdirmişdir. 1999-2000 ci illərdə Milli Ankoloji mərkəzdə çal..."
+    },
+    {
+      "id": 10,
+      "imgURL": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775886.webp",
+      "name": "Nəcibə Umudova",
+      "job": "Fizioterapevt",
+      "about": "1987-1993 cü illərdə Azərbaycan Tibb Universitetinin müalicə işi fakültəsində təhsil almışdır. Bununla yanaşı ADHTİ-da dəfələrlə ixtisas artırma kurslarında iştirak etmişdir. 2000-2019 cu illərdə Mərk..."
+    }
+  ],
+
+  "data-westhospital-laboratory": [
+    {
+      "id": 0,
+      "head": "Kardioloq",
+      "category": "Ər",
+      "title": "Qanın sterilliyi",
+      "price": 28
+    },
+    {
+      "id": 1,
+      "head": "Qanın müayinəsi",
+      "category": "Biokimyəvi",
+      "title": "Urea (sidik cövhəri)",
+      "price": 28
+    },
+    {
+      "id": 2,
+      "head": "Qanın müayinəsi",
+      "category": "Biokimyəvi",
+      "title": "C-reaktiv zülal CRP",
+      "price": 28
+    },
+    {
+      "id": 3,
+      "head": "Qanın müayinəsi",
+      "category": "Biokimyəvi",
+      "title": "Fosfor (qanda)",
+      "price": 28
+    },
+    {
+      "id": 4,
+      "head": "Qanın müayinəsi",
+      "category": "Biokimyəvi",
+      "title": "Alaninaminotransferaza (ALT)",
+      "price": 28
+    },
+    {
+      "id": 5,
+      "head": "Kardioloq",
+      "category": "Beyin",
+      "title": "Bilirubin (sidikdə)",
+      "price": 28
+    },
+    {
+      "id": 6,
+      "head": "Kardioloq",
+      "category": "Yoxdu",
+      "title": "Ekspress qlükoza (barmaqdan)",
+      "price": 28
+    },
+    {
+      "id": 7,
+      "head": "Kardioloq",
+      "category": "Yoxdu",
+      "title": "HbAlcQlikohemoqlobin",
+      "price": 28
+    },
+    {
+      "id": 8,
+      "head": "Sidiyin müayinəsi",
+      "category": "Kliniki",
+      "title": "Zimnitski sınağı",
+      "price": 28
+    },
+    {
+      "id": 9,
+      "head": "Sidiyin müayinəsi",
+      "category": "Kliniki",
+      "title": "Hamiləlik testi (sidikdə)",
+      "price": 28
+    },
+    {
+      "id": 10,
+      "head": "Sidiyin müayinəsi",
+      "category": "Kliniki",
+      "title": "Sidikdə narkoloji maddələrin təyini",
+      "price": 28
+    },
+    {
+      "id": 11,
+      "head": "Sidiyin müayinəsi",
+      "category": "Kliniki",
+      "title": "Sidiyin ümumi analizi",
+      "price": 28
+    },
+    {
+      "id": 12,
+      "head": "Sidiyin müayinəsi",
+      "category": "Bakterioloji",
+      "title": "Sidiyin əkilməsi",
+      "price": 28
+    },
+    {
+      "id": 13,
+      "head": "Qanın müayinəsi",
+      "category": "Biokimyəvi",
+      "title": "Amilaza (qanda)",
+      "price": 23
+    },
+    {
+      "id": 14,
+      "head": "Qanın müayinəsi",
+      "category": "Bakterioloji",
+      "title": "Qanın sterilliyi",
+      "price": 28
+    },
+    {
+      "id": 15,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "HomaİR İnsulunorezistentlik",
+      "price": 28
+    },
+    {
+      "id": 16,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "Anti TPO",
+      "price": 28
+    },
+    {
+      "id": 17,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "C peptit (qanda)",
+      "price": 28
+    },
+    {
+      "id": 18,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "C peptit (sidikdə)",
+      "price": 28
+    },
+    {
+      "id": 19,
+      "head": "Nəcisin müayinəsi",
+      "category": "Kliniki",
+      "title": "Dezinteriya (amioba)",
+      "price": 28
+    },
+    {
+      "id": 20,
+      "head": "Nəcisin müayinəsi",
+      "category": "Kliniki",
+      "title": "Nəcisin ümumi analizi",
+      "price": 28
+    },
+    {
+      "id": 21,
+      "head": "Nəcisin müayinəsi",
+      "category": "Kliniki",
+      "title": "Nəcisin ümumi analizi (qurd yumurtalarının təyini)",
+      "price": 28
+    },
+    {
+      "id": 22,
+      "head": "Nəcisin müayinəsi",
+      "category": "Kliniki",
+      "title": "H.Pylori antigen nəcisdə",
+      "price": 28
+    },
+    {
+      "id": 23,
+      "head": "Nəcisin müayinəsi",
+      "category": "Bakterioloji",
+      "title": "Disbakterioz",
+      "price": 28
+    },
+    {
+      "id": 24,
+      "head": "Nəcisin müayinəsi",
+      "category": "Bakterioloji",
+      "title": "Nəcisin əkilməsi",
+      "price": 28
+    },
+    {
+      "id": 25,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "HomaİR İnsulunorezistentlik",
+      "price": 28
+    },
+    {
+      "id": 26,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "Anti TPO",
+      "price": 28
+    },
+    {
+      "id": 27,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "C peptit (qanda)",
+      "price": 28
+    },
+    {
+      "id": 28,
+      "head": "Qanın müayinəsi",
+      "category": "Hormonoloji",
+      "title": "C peptit (sidikdə)",
+      "price": 28
+    },
+    {
+      "id": 29,
+      "head": "Urogenital müayinə",
+      "category": "İnfeksiya",
+      "title": "3 adda ureaplazma, mikoplazma xlomidiya (yaxmada)",
+      "price": 28
+    },
+    {
+      "id": 30,
+      "head": "Urogenital müayinə",
+      "category": "İnfeksiya",
+      "title": "Mikoplazma (yaxmada)",
+      "price": 28
+    },
+    {
+      "id": 31,
+      "head": "Urogenital müayinə",
+      "category": "İnfeksiya",
+      "title": "Qardnerella vaginalis",
+      "price": 28
+    },
+    {
+      "id": 32,
+      "head": "Urogenital müayinə",
+      "category": "Bakterioloji",
+      "title": "Uretra möhtəviyyatının əkilməsi",
+      "price": 28
+    },
+    {
+      "id": 33,
+      "head": "Urogenital müayinə",
+      "category": "Bakterioloji",
+      "title": "Uşaqlıq yolunun möhtəviyyatının əkilməsi",
+      "price": 28
+    }
+  ]
 }
