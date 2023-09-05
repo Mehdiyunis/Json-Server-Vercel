@@ -423,5 +423,33 @@
       "title": "Uşaqlıq yolunun möhtəviyyatının əkilməsi",
       "price": 28
     }
+  ],
+
+  "data-westhospital-laboratory-faq": [
+    {
+      "id": 0,
+      "head": "Kardioloq",
+      "category": ["Ər","Beyin","Yoxdu"]
+    },
+    {
+      "id": 1,
+      "head": "Qanın müayinəsi",
+      "category": ["Biokimyəvi","Hormonoloji","Bakterioloji"]
+    },
+    {
+      "id": 2,
+      "head": "Sidiyin müayinəsi",
+      "category": ["Kliniki","Bakterioloji"]
+    },
+    {
+      "id": 3,
+      "head": "Nəcisin müayinəsi",
+      "category": ["Kliniki","Bakterioloji"]
+    },
+    {
+      "id": 4,
+      "head": "Urogenital müayinə",
+      "category": ["İnfeksiya","Bakterioloji"]
+    }
   ]
 }
